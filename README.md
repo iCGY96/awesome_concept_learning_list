@@ -24,6 +24,7 @@ Here, we provide a non-exhaustive list of papers that study concept learning.
 - A Closer Look at the Intervention Procedure of Concept Bottleneck Models (**ICML** 2023) [[paper]](https://arxiv.org/abs/2302.14260) [[code]](https://github.com/ssbin4/closer-intervention-cbm)
 - Learning Bottleneck Concepts in Image Classification (**CVPR** 2023) [[paper]](https://github.com/wbw520/botcl) [[code]](https://arxiv.org/abs/2304.10131)
 - Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2303.17393) [[code]](https://github.com/tpcd/dccl)
+- Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2211.11158) [[code]](https://github.com/yueyang1996/labo)
 - Label-Free Concept Bottleneck Models (**ICLR** 2023) [[paper]](https://arxiv.org/abs/2304.06129) [[code]](https://github.com/Trustworthy-ML-Lab/Label-free-CBM)
 - Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2302.06072) 
 - Towards Robust Metrics for Concept Representation Evaluation (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2301.10367) 
