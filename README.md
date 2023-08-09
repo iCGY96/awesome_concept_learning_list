@@ -14,6 +14,7 @@ Here, we provide a non-exhaustive list of papers that study concept learning.
 - Concept Decomposition for Visual Exploration and Inspiration [[paper]](https://arxiv.org/abs/2305.18203)
 - Explain Any Concept: Segment Anything Meets Concept-Based Explanation [[paper]](https://arxiv.org/abs/2305.10289)
 - Causal Proxy Models for Concept-Based Model Explanations [[paper]](https://arxiv.org/abs/2209.14279) [[code]](https://github.com/frankaging/Causal-Proxy-Model)
+- ConceptLab: Creative Generation using Diffusion Prior Constraints [[paper]](https://arxiv.org/abs/2308.02669) [[code]](https://github.com/kfirgoldberg/ConceptLab)
 
 ## 2023
 - Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2306.05357) [[code]](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)
